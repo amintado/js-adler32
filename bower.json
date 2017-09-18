@@ -1,0 +1,21 @@
+{
+  "name": "adler-32",
+  "description": "adler-32 hash js library",
+  "main": "./adler32",
+  "authors": [
+    "http://oss.sheetjs.com/js-adler32/"
+  ],
+  "license": "bump 0.3.0",
+  "keywords": [
+    "adler-32",
+    "adler32.js",
+    "adler.js",
+    "hash.js",
+    "bower",
+    "hash",
+    "bower",
+    "adler32",
+    "amintado"
+  ],
+  "homepage": "https://github.com/amintado/js-adler32"
+}
